@@ -8,8 +8,12 @@ _Misleading Images and Artificial Intelligence Models. Study day and workshops a
 
 Voir programme (_see program_) [pdf)](pdf/programme.pdf)
 
-## Résumés (Abstracts)
+## Résumés (_Abstracts_)
 
-## Script (Machine Unlearning workshop)
+### Journée d'étude (_Study day_)
+
+### Ateliers (_Workshops_)
+
+## Resssources ateliers (_Workshop_)
 
 See script here
