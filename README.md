@@ -1,2 +1,15 @@
-# itmai
-Journée d'étude et ateliers "Images trompeuses et modèles d'intelligence artificielle"
+# Images trompeuses et modèles d'intelligence artificielle
+
+Cycle journée d'étude et ateliers, les 12 et 13 octobre 2023 au Fresnoy, Studio national des arts contemporains
+
+Misleading Images and Artificial Intelligence Models. Study day and workshops at Fresnoy, National studio of contemporary arts
+
+![affiche](img/affiche.jg)
+
+Voir programme (_see program_) [pdf)](pdf/programme.pdf)
+
+## Résumés (Abstracts)
+
+## Script (Machine Unlearning Workshop)
+
+See script here
