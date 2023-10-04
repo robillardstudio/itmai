@@ -16,6 +16,6 @@ Voir programme (_see program_) [pdf](pdf/programme.pdf)
 
 ## Biographies
 
-## Resssources ateliers (_Workshop_)
+## Ressources ateliers (_Workshop material_)
 
 See script here
