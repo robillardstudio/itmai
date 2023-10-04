@@ -6,7 +6,7 @@ _Misleading Images and Artificial Intelligence Models. Study day and workshops a
 
 ![affiche](img/affiche.jg)
 
-Voir programme (_see program_) [pdf)](pdf/programme.pdf)
+Voir programme (_see program_) [pdf](pdf/programme.pdf)
 
 ## Résumés (_Abstracts_)
 
