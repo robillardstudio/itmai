@@ -2,7 +2,7 @@
 
 Cycle journée d'étude et ateliers, les 12 et 13 octobre 2023 au Fresnoy, Studio national des arts contemporains
 
-Misleading Images and Artificial Intelligence Models. Study day and workshops at Fresnoy, National studio of contemporary arts
+_Misleading Images and Artificial Intelligence Models. Study day and workshops at Fresnoy, National studio of contemporary arts_
 
 ![affiche](img/affiche.jg)
 
