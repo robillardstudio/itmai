@@ -10,6 +10,6 @@ Voir programme (_see program_) [pdf)](pdf/programme.pdf)
 
 ## Résumés (Abstracts)
 
-## Script (Machine Unlearning Workshop)
+## Script (Machine Unlearning workshop)
 
 See script here
