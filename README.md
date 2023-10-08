@@ -6,7 +6,7 @@ ___Misleading Images and Artificial Intelligence Models___
 
 _Study day and workshops, October 12 and 13 at Fresnoy, National studio of contemporary arts_
 
-![affiche](medias/itmai_11x17_web.jpg)
+![affiche](medias/cover.jpg)
 
 Voir programme (_see program_) [pdf](medias/programme.pdf)
 
