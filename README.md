@@ -8,7 +8,7 @@ _Study day and workshops, October 12 and 13 at Fresnoy, National studio of conte
 
 ![affiche](medias/itmai_11x17_web.jpg)
 
-Voir programme (_see program_) [pdf](pdf/medias/programme.pdf)
+Voir programme (_see program_) [pdf](medias/programme.pdf)
 
 ## Résumés (_Abstracts_)
 
