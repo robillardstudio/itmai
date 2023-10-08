@@ -20,4 +20,6 @@ Voir programme (_see program_) [pdf](pdf/medias/programme.pdf)
 
 ## Ressources ateliers (_Workshops material_)
 
-See script here
+![mobilenet2gif](mobilenet2gif/image.gif)
+
+See mobilenet2gif repository for js code.
