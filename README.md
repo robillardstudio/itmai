@@ -98,25 +98,31 @@ catastrophism. The apostles of technological disinhibition, like the tense criti
 
 ### 13 Octobre. Ateliers (_Workshops_)
 
-#### Gaëtan Robillard
+#### Gaëtan Robillard, Université Laval, Québec
 
 "Machine Unlearning"
 
 Nous nous intéresserons ici au modèle MobileNET, un réseau d’apprentissage profond entraîné pour la classification d’images. Il s’agira d’interagir avec ce modèle à travers un programme JavaScript de quelques lignes (librairies p5.js et ml5.js). Grâce à des input graphiques et aléatoires, nous chercherons à déjouer la reconnaissance d’image pour ensuite explorer les biais d’entraînement du modèle.
 
-*We will focus here on the MobileNET model, a deep learning network trained for image classification. This will involve interacting with this model through a JavaScript program made of a few lines of code (p5.js and ml5.js libraries). Using random graphic input, we will seek to contradict image recognition and then explore the model’s training biases.*
-
 "GANs et usage de faux"
 
 Nous nous appuierons sur un environnement de travail spécialement conçu pour la recherche sur les réseaux adversaires génératifs (GAN). Cet environnement est pensé pour quiconque souhaiterait découvrir, façonner ou critiquer ce type de modèle, en particulier dans un contexte de recherche et d’expérimentation visuelle. Nous explorerons des jeux de données et nous verrons comment produire des images en mouvement. L’atelier ouvrira sur la présentation de prompts pour la génération vidéo.
+
+*"Machine Unlearning"*
+
+*We will focus here on the MobileNET model, a deep learning network trained for image classification. This will involve interacting with this model through a JavaScript program made of a few lines of code (p5.js and ml5.js libraries). Using random graphic input, we will seek to contradict image recognition and then explore the model’s training biases.*
 
 *"GANs and other forgeries"*
 
 *We will rely on a work environment specially designed for research on generative adversarial networks (GAN). This environment is designed for anyone who would like to discover, shape or criticize this type of model, particularly in a context of research and visual experimentation. We will explore datasets and see how to produce moving images. The workshop will open with the presentation of prompts for video generation.*
 
-#### Alain Lioret (en ligne)
+#### Alain Lioret, Université Paris 8 (en ligne)
+
+"L’Art Génératif Quantique"
 
 On verra comment utiliser l’informatique quantique pour la générativité artistique et comment les techniques avancées d’intelligence artificielle ouvrent-elles de nouvelles perspectives avec les algorithmes quantiques. On découvrira comment les principes de superposition, d’intrication, de téléportation quantiques peuvent apporter des outils nouveaux pour les artistes.
+
+*"Quantum Generative Art"*
 
 *We will see how to use quantum computing for artistic generativity and how advanced artificial intelligence techniques open up new prospects with quantum algorithms. We will discover how the principles of quantum superposition, entanglement and teleportation can provide new tools for artists.*
 
