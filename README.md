@@ -6,9 +6,15 @@ ___Misleading Images and Artificial Intelligence Models___
 
 _Study day and workshops, October 12 and 13 at Fresnoy, National studio of contemporary arts_
 
+----
+
+Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche international Arcanes CRILCQ, Université Laval (Canada) 
+
 ![affiche](medias/cover.jpg)
 
-Voir programme (_see program_) [pdf](medias/programme.pdf)
+[Voir programme en pdf (_see program as pdf_)](medias/programme.pdf)
+
+<!-- [Voir demo atelier Machine Unlearning (*see demo for Machine Unlearning workshop*)]() -->
 
 ## Résumés (_Abstracts_)
 
@@ -192,7 +198,7 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 ![mobilenet2gif](mobilenet2gif/image.gif)
 
-See mobilenet2gif folder for js code.
+Gaëtan Robillard, Machine Unlearning : see [mobilenet2gif](/mobilenet2gif/) folder for JavaScript.
 
 References for Stable diffusion webui colab [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 

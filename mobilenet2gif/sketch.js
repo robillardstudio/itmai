@@ -34,10 +34,6 @@ function setup() {
 
   // GUI init
 
-  checkbox = createCheckbox('all labels', false);
-  checkbox.position(10, 100);
-  checkbox.changed(myCheckedEvent);
-
   sel = createSelect();
   sel.position(10, 10);
   sel.option('MobileNet');
@@ -47,13 +43,27 @@ function setup() {
   sel.selected('MobileNet');
   sel.changed(mySelectEvent);
 
-  button = createButton('save image');
-  button.position(10, 40);
-  button.mousePressed(saveImage);
+  let div = createDiv('patterns size:');
+  div.position(10, 40);
 
   slider = createSlider(1, 100, 1);
-  slider.position(10, 70 );
+  slider.position(10, 60);
   slider.style('width', '80px');
+
+  checkbox = createCheckbox('all labels', false);
+  checkbox.position(10, 90);
+  checkbox.changed(myCheckedEvent);
+
+  button = createButton('save image');
+  button.position(10, 150);
+  button.mousePressed(saveImage);
+
+  // let div2 = createDiv("press 's' to export .gif");
+  // div2.position(10, 180);
+
+  let div3 = createDiv('Gaëtan Robillard, Machine Unlearning Demo');
+  div3.style('font-size', '10px');
+  div3.position(10, 200);
 }
 
 function draw(){
