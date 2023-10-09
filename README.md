@@ -6,9 +6,9 @@ ___Misleading Images and Artificial Intelligence Models___
 
 _Study day and workshops, October 12 and 13 at Fresnoy, National studio of contemporary arts_
 
-----
+<!-- ----
 
-Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche international Arcanes CRILCQ, Université Laval (Canada) 
+Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche international Arcanes CRILCQ, Université Laval (Canada)  -->
 
 ![affiche](medias/cover.jpg)
 
