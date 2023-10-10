@@ -205,7 +205,7 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlearning) folder for JavaScript exemple.
 
-Gaëtan Robillard, Trois lignes dans un espace latent : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
+Gaëtan Robillard, Trois lignes dans un espace latent (Three Lines in a Latent Space) : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
 
 Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org](https://ml5js.org/)
 
