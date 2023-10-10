@@ -104,6 +104,11 @@ catastrophism. The apostles of technological disinhibition, like the tense criti
 
 ### 13 Octobre. Ateliers (_Workshops_)
 
+Les ateliers son premièrement destinés aux étudiants du Fresnoy.
+
+*Workshops are primarely aimed at Fresnoy students.*
+
+
 #### Gaëtan Robillard, Université Laval, Québec
 
 "Machine Unlearning"
