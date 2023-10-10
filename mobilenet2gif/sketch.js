@@ -1,4 +1,5 @@
-// Machine Unlearning (workshop)
+// MACHINE UNLEARNING (workshop)
+// MOBILENET2GIF VERSION
 // Gaëtan Robillard
 // ---------------------------------------------------------------------------------------
 // 1. Au choix :
