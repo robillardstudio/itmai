@@ -207,7 +207,7 @@ Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlear
 
 Gaëtan Robillard, Trois lignes dans un espace latent : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
 
-Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org/](https://ml5js.org/)
+Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org](https://ml5js.org/)
 
 References for Stable diffusion webui colab [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 
