@@ -203,7 +203,7 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 ![machine unlearning](machine-unlearning/image.gif)
 
-Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlearning) folder for JavaScript.
+Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlearning) folder for JavaScript exemple.
 
 Gaëtan Robillard, Trois lignes dans un espace latent : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
 
