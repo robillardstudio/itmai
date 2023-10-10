@@ -24,7 +24,7 @@ Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche internati
 
 "Mes lignes tracées par l'IA"
 
-Dans le domaine de l’image, l’IA générative suscite aujourd’hui beaucoup d’attention. Depuis plus de vingt ans, Kazushi Mukaiyama développe un programme de peinture par IA car il cherchait à savoir pourquoi les humains produisent ou s’intéressent à l’art. Durant cette période, Shizuka – le peintre IA, a connu plusieurs changements. Tout d’abord, il ne pouvait dessiner qu’une seule image fixe à la fois, telle une scène. Ensuite, des tentatives ont été faites pour créer des séquences d’images continues à la manière d’un manga, telles des histoires. Dernièrement, le programme a dessiné des images à partir de lignes produites par Mukaiyama lui-même. Ce résultat lui permet désormais d'envisager son propre processus créatif d'une manière entièrement inédite. Ainsi, l’IA fournit des indices lui permettant de comprendre ce qui fonde la capacité des humains à créer de l’art. L’une de ces indications est que, parmi toutes les créatures sur terre, seuls les humains peuvent tracer du texte. Et cette possibilité semble être intimement liée à notre capacité de traiter de l’art. Mukaiyama a pu le vérifier en utilisant l'IA générative d’aujourd’hui appliquée aux images. En outre, la présentation abordera des points importants pour réfléchir sur l’avenir de ce domaine de recherche.
+Dans le domaine de l’image, l’IA générative suscite aujourd’hui beaucoup d’attention. Depuis plus de vingt ans, Kazushi Mukaiyama développe un programme de peinture par IA car il cherchait à savoir pourquoi les humains produisent ou s’intéressent à l’art. Durant cette période, Shizuka – le peintre IA, a connu plusieurs changements. Tout d’abord, il ne pouvait dessiner qu’une seule image fixe à la fois, telle une scène. Ensuite, des tentatives ont été faites pour créer des séquences d’images continues à la manière d’un manga, telles des histoires. Dernièrement, le programme a dessiné des images à partir de lignes produites par Mukaiyama lui-même. Ce résultat lui permet désormais d'envisager son propre processus créatif d'une manière entièrement inédite. Ainsi, l’IA fournit des indices lui permettant de comprendre ce qui fonde la capacité des humains à créer de l’art. L’une de ces indications est que, parmi toutes les créatures sur terre, seuls les humains peuvent tracer du texte. Et cette possibilité semble être intimement liée à notre capacité de traiter de l’art. Mukaiyama a pu le vérifier en utilisant l'IA générative d’aujourd’hui appliquée aux images. En outre, la présentation abordera des points importants pour réfléchir à l’avenir de ce domaine de recherche.
 
 *"My lines drawn by AI"*
 
@@ -205,9 +205,13 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlearning) folder for JavaScript exemple.
 
-Gaëtan Robillard, Trois lignes dans un espace latent (Three Lines in a Latent Space) : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
+Machine Unlearning exemple in p5 web editor : [https://editor.p5js.org/gaetan/sketches/dPT8z1TKO](https://editor.p5js.org/gaetan/sketches/dPT8z1TKO)
 
 Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org](https://ml5js.org/)
+
+Gaëtan Robillard, Trois lignes dans un espace latent (Three Lines in a Latent Space) : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
+
+**Ressources complémentaires (Further ressources)**
 
 References for Stable diffusion webui colab [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 
