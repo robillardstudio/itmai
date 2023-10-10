@@ -201,7 +201,7 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 ## Ressources ateliers (_Workshops material_)
 
-![mobilenet2gif](mobilenet2gif/image.gif)
+![machine unlearning](machine-unlearning/image.gif)
 
 Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlearning) folder for JavaScript.
 
