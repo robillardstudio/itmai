@@ -200,6 +200,8 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 Gaëtan Robillard, Machine Unlearning : see [mobilenet2gif](/mobilenet2gif/) folder for JavaScript.
 
+Gaëtan Robillard, Trois lignes dans un espace latent : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
+
 References for Stable diffusion webui colab [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 
 Stable Diffusion web UI by AUTOMATIC 1111 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
