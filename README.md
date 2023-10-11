@@ -58,7 +58,7 @@ La présentation portera sur les deepfakes dans le domaine sonore, et sur des pr
 
 *"Deepfakes or Speech Synthesis"*
 
-*The presentation will focus on deepfakes in the audio field, and on issues related to the fields of journalism and media. But speech synthesis is also a broader subject, and nourishes many creative practices. The presentation will therefore open to projects developed in collaboration with artists, filmmakers or composers.*
+*The presentation will focus on deepfakes in the audio field. It will then tackle issues related to the fields of journalism and media. But speech synthesis is also a broader subject, and nourishes many creative practices. The presentation will therefore open to projects developed in collaboration with artists, filmmakers or composers.*
 
 #### Constantine Boussalis, Trinity College, Dublin
 
@@ -201,9 +201,9 @@ Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à 
 
 ## Ressources ateliers (_Workshops material_)
 
-![machine unlearning](machine-unlearning/mobilenet2gif/image.gif)
+![machine unlearning](code/mobilenet2gif/image.gif)
 
-Gaëtan Robillard, Machine Unlearning : see [machine-unlearning](/machine-unlearning) folder for JavaScript exemple.
+Gaëtan Robillard, Machine Unlearning : see [/code](/code) folder for JavaScript exemples.
 
 Machine Unlearning exemple in p5 web editor : [https://editor.p5js.org/gaetan/sketches/dPT8z1TKO](https://editor.p5js.org/gaetan/sketches/dPT8z1TKO)
 
