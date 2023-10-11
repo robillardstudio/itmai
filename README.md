@@ -80,7 +80,7 @@ Dans cette communication, nous présenterons les premiers résultats d’un proj
 
 *In this communication, we will present the first results of a research project currently carried out within the Research Laboratory in Socio-Digital Media and Gamification (UQAM) and during which we analyze intelligent virtual assistants (notably Google Home, Alexa, Siri and ChatGPT) as devices that allow their designers to engage, in a more or less direct way, with people who use these digital tools. More than just computer software, these devices are capable of simultaneously mobilizing several sign systems (visual, language, sound, etc.), of simulating emotions and feelings or even of engaging in diverse and varied performances (writing a poem, sing, play the role of famous characters, etc.). Using examples from our research, we will focus on the “playful feint” strategies (Schaeffer, 1999) that these devices deploy to give the impression that their users are conversing with living and autonomous characters, animated by a consciousness and desires of their own. We will then question the issues posed by such strategies which can lead to situations where people are no longer able to distinguish truth from falsehood, human from machine.*
 
-#### Olga Kisseleva, Université Paris 1 Panthéon-Sorbonne, Paris
+#### Olga Kisseleva, Institut International Art&Science, Paris
 
 "De l’intelligence en essaim à l’intelligence artificielle, et vice versa"
 
