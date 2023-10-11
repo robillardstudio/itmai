@@ -90,7 +90,7 @@ La présentation d’Olga Kisseleva sera basée sur une longue expérience des r
 
 *Olga Kisseleva's presentation will be based on extensive experience in the relationship between Artificial Intelligence and art, as well as her recent involvement with the Observatory of Artificial Intelligence of Paris 1 Panthéon-Sorbonne and within the CNRS CulturIA project. Within the framework of this theme, she will address: - The notion of intelligence: what differentiates natural intelligence from AI. Is it appropriate to speak of intelligence in both cases? Are they comparable? - The role of art as a mediator between domains, allowing the deployment and invention of new objects, and new languages using different forms of intelligence. - How natural intelligence can improve AI; how, conversely, can AI help repair our world, from an ecological perspective? - The danger of exploitation, by capitalism, of certain biotechnological research and my artistic approach as a way of hijacking AI, of proposing other forms of networks, of connections than those we generally think of. - Natural intelligence as an alternative model to AI.*
 
-#### Frank Madlener, IRCAM Centre Pompidou
+#### Frank Madlener, IRCAM Centre Pompidou, Paris
 
 "Après l’intelligence artificielle : l’éthique, les tics et l’esthétique"
 
