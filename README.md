@@ -20,7 +20,7 @@ Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche internati
 
 ### 12 Octobre. Journée d'étude (_Study day_)
 
-#### Kazushi Mukaiyama, Université de Hakodate (en ligne)
+#### Kazushi Mukaiyama, Université du futur Hakodate [en ligne]
 
 "Mes lignes tracées par l'IA"
 
@@ -70,9 +70,9 @@ La présentation portera sur les deepfakes dans le domaine sonore, et sur des pr
 
 *In an era saturated with visual data, computational techniques have become invaluable for deciphering political communication and misinformation at large scales. This talk provides a concise review of the application of computer vision in contemporary visual political communication research. Leveraging machine learning tools, researchers have not only opened new avenues of inquiry into diverse topics, from political protests to extremist propaganda, but also ventured into the realm of text-to-image generation to study political behavior. As these techniques gain momentum, the potential biases and ethical dimensions of dataset representation and generative models become even more salient. This presentation aims to offer a succinct overview of the current landscape of computational methods in visual political research, addressing both their groundbreaking capabilities and inherent challenges.*
 
-#### Fabien Richert, Université du Québec à Montréal (en ligne)
+#### Fabien Richert, Université du Québec à Montréal [en ligne]
 
-"Converser avec l’IA : entre feintise ludique et stratégie de tromperie (en ligne)"
+"Converser avec l’IA : entre feintise ludique et stratégie de tromperie"
 
 Dans cette communication, nous présenterons les premiers résultats d’un projet de recherche mené actuellement au sein du Laboratoire de recherche en médias socionumériques et ludification (UQAM) et au cours duquel nous analysons les assistants virtuels intelligents (notamment Google Home, Alexa, Siri et ChatGPT) comme des dispositifs qui permettent à leurs concepteurs·rices d’interpeller, de manière plus ou moins directe, les personnes qui utilisent ces outils numériques. Plus que de simples logiciels informatiques, ces dispositifs sont capables de mobiliser simultanément plusieurs systèmes de signes (visuels, langagiers, sonores, etc.), de simuler des émotions et des sentiments ou encore de se livrer à des performances diverses et variées (écrire un poème, chanter, jouer le rôle de personnages célèbres, etc.). À partir d’exemples issus de notre recherche, nous nous intéresserons aux stratégies de « feintise ludique » (Schaeffer, 1999) que déploient ces dispositifs pour donner l’impression que leurs utilisateurs et utilisatrices conversent avec des personnages vivants et autonomes, animés par une conscience et des désirs qui leur sont propres. Nous nous interrogerons alors sur les enjeux posés par de telles stratégies pouvant dériver vers des situations où les personnes ne parviennent plus à distinguer le vrai du faux, l’humain de la machine.
 
@@ -127,7 +127,7 @@ Nous nous appuierons sur un environnement de travail spécialement conçu pour l
 
 *We will rely on a work environment specially designed for research on generative adversarial networks (GAN). This environment is designed for anyone who would like to discover, shape or criticize this type of model, particularly in a context of research and visual experimentation. We will explore datasets and see how to produce moving images. The workshop will open with the presentation of prompts for video generation.*
 
-#### Alain Lioret, Université Paris 8 (en ligne)
+#### Alain Lioret, Université Paris 8 [en ligne]
 
 "L’Art Génératif Quantique"
 
