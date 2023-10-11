@@ -13,7 +13,7 @@
 let classifier;
 
 let doc = 600;
-let f = 1.2;
+let f = 1.6;
 
 // A variable to hold the image we want to classify
 let img;
@@ -39,7 +39,7 @@ function setup() {
   image(img1, 0, 0, doc, doc);
 
   // YOUR RANDOM DRAWING HERE
- for(let i = 0; i<100; i++){
+ for(let i = 0; i<150; i++){
     let x = random(600);
     let y = random(600);
     rect(x, y, 50, 50)
