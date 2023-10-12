@@ -14,7 +14,7 @@ Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche internati
 
 [Voir programme en pdf (_see program as pdf_)](medias/programme.pdf)
 
-[Aller aux ressources atelier (workshops ressources)](ateliers.md)
+[Aller aux ressources atelier (*workshops ressources*)](ateliers.md)
 
 <!-- [Voir demo atelier Machine Unlearning (*see demo for Machine Unlearning workshop*)]() -->
 
