@@ -8,6 +8,8 @@ _Study day and workshops, October 12 and 13 at Fresnoy, National studio of conte
 
 ## Ressources ateliers (_Workshops material_)
 
+**Marchine Unlearning**
+
 ![machine unlearning](code/mobilenet2gif/image.gif)
 
 Gaëtan Robillard, Machine Unlearning : voir le dossier [/code](/code) pour les exemples JavaScript.
@@ -15,6 +17,8 @@ Gaëtan Robillard, Machine Unlearning : voir le dossier [/code](/code) pour les 
 Exemple "Machine Unlearning : start" dans l'éditeur web p5 : [https://editor.p5js.org/gaetan/sketches/dPT8z1TKO](https://editor.p5js.org/gaetan/sketches/dPT8z1TKO)
 
 Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org](https://ml5js.org/)
+
+**Trois lignes dans un espace latent**
 
 Gaëtan Robillard, Trois lignes dans un espace latent (*Three Lines in a Latent Space*) : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
 
