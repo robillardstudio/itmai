@@ -8,9 +8,9 @@ _Study day and workshops, October 12 and 13 at Fresnoy, National studio of conte
 
 ## Ressources ateliers (_Workshops material_)
 
-**Marchine Unlearning**
-
 ![machine unlearning](code/mobilenet2gif/image.gif)
+
+**Marchine Unlearning**
 
 Gaëtan Robillard, Machine Unlearning : voir le dossier [/code](/code) pour les exemples JavaScript.
 
