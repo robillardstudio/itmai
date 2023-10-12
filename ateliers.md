@@ -1,3 +1,11 @@
+# Images trompeuses et modèles d'intelligence artificielle
+
+Cycle journée d'étude et ateliers, les 12 et 13 octobre 2023 au Fresnoy, Studio national des arts contemporains
+
+___Misleading Images and Artificial Intelligence Models___
+
+_Study day and workshops, October 12 and 13 at Fresnoy, National studio of contemporary arts_
+
 ## Ressources ateliers (_Workshops material_)
 
 ![machine unlearning](code/mobilenet2gif/image.gif)
