@@ -20,7 +20,15 @@ Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org](https://ml5js.
 
 **Trois lignes dans un espace latent**
 
-Gaëtan Robillard, Trois lignes dans un espace latent (*Three Lines in a Latent Space*) : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
+Gaëtan Robillard, Trois lignes dans un espace latent (*Three Lines in a Latent Space*)
+
+Répertoire et méthode : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
+
+[Colab Entraînement](https://colab.research.google.com/drive/12WCzKlR--V8E7HMZHJ89nobVDCknCKmE?usp=sharing)
+
+[Colab Inférence](https://colab.research.google.com/drive/13g3rX2zgyxT5YKTZILBrISybmLJ4_pXi?usp=sharing)
+
+[Colab Inférence +](https://colab.research.google.com/drive/13g3rX2zgyxT5YKTZILBrISybmLJ4_pXi?usp=sharing)
 
 **Ressources complémentaires (*Further ressources*)**
 
