@@ -20,7 +20,7 @@ Ml5 : Friendly Machine Learning for the Web : [https://ml5js.org](https://ml5js.
 
 **Trois lignes dans un espace latent**
 
-Gaëtan Robillard, Trois lignes dans un espace latent (*Three Lines in a Latent Space*)
+Gaëtan Robillard, Trois lignes dans un espace latent.
 
 Répertoire et méthode : [https://github.com/robillardstudio/three-lines-in-latent-space](https://github.com/robillardstudio/three-lines-in-latent-space)
 
@@ -30,7 +30,7 @@ Notebooks
 - [Colab Inférence](https://colab.research.google.com/drive/13g3rX2zgyxT5YKTZILBrISybmLJ4_pXi?usp=sharing)
 - [Colab Inférence +](https://colab.research.google.com/drive/13g3rX2zgyxT5YKTZILBrISybmLJ4_pXi?usp=sharing)
 
-**Ressources complémentaires (*Further ressources*)**
+**Ressources complémentaires**
 
 References for Stable diffusion webui colab [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 
