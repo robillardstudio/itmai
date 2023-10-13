@@ -28,7 +28,7 @@ Notebooks
 
 - [Colab Entraînement](https://colab.research.google.com/drive/12WCzKlR--V8E7HMZHJ89nobVDCknCKmE?usp=sharing)
 - [Colab Inférence](https://colab.research.google.com/drive/13g3rX2zgyxT5YKTZILBrISybmLJ4_pXi?usp=sharing)
-- [Colab Inférence +](https://colab.research.google.com/drive/13g3rX2zgyxT5YKTZILBrISybmLJ4_pXi?usp=sharing)
+- [Colab Inférence +](https://colab.research.google.com/drive/14oww73GEQrECNtgaj8iK78jSw8GtHIiE?usp=sharing)
 
 **Ressources complémentaires**
 
