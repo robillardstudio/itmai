@@ -65,16 +65,20 @@ function setup() {
   let div3 = createDiv('Gaëtan Robillard, Machine Unlearning Demo');
   div3.style('font-size', '10px');
   div3.position(10, 200);
+
+  let div4 = createDiv("Type 's' to save a .gif sequence");
+  div4.style('font-size', '10px');
+  div4.position(10, 220);
 }
 
 function draw(){
   noFill(); 
   if(frameCount%14==0){
+    background(250);
 
     // Insert image
     // image(img, 0, 0, doc, doc);
-
-    background(250);
+    
     stroke("#6200ff");
     hatch();
     hatch();
@@ -85,7 +89,6 @@ function draw(){
 
     classifier.classify(canvas, gotResult);
   }
-  
 }
 
 // A function to run when we get any errors and the results
