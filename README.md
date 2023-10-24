@@ -1,20 +1,20 @@
 # Images trompeuses et modèles d'intelligence artificielle
 
-Cycle journée d'étude et ateliers, les 12 et 13 octobre 2023 au Fresnoy, Studio national des arts contemporains
+Cycle journée d'étude et ateliers, les 12 et 13 octobre 2023 au Fresnoy, Studio national des arts contemporains. Organisé par Gaëtan Robillard, Renée Bourassa et le groupe de recherche international Arcanes – CRILCQ et Université Laval (Canada).
 
 ___Misleading Images and Artificial Intelligence Models___
 
-_Study day and workshops, October 12 and 13 at Fresnoy, National studio of contemporary arts_
+_Study day and workshops, October 12 and 13 at Fresnoy, National studio of contemporary arts. Organized by Gaëtan Robillard, Renée Bourassa and the international research group Arcanes – CRILCQ and Laval University (Canada)_
 
-<!-- ----
-
-Organisation Gaëtan Robillard et Renée Bourassa, groupe de recherche international Arcanes CRILCQ, Université Laval (Canada)  -->
+----
 
 ![affiche](medias/cover.jpg)
 
 [Voir programme en pdf (_see program as pdf_)](medias/programme.pdf)
 
 [Aller aux ressources atelier (*workshops ressources*)](ateliers.md)
+
+[Groupe de recherche international Arcanes](https://crilcq.arcanes.ca/)
 
 <!-- [Voir demo atelier Machine Unlearning (*see demo for Machine Unlearning workshop*)]() -->
 
