@@ -14,7 +14,7 @@ _Study day and workshops, October 12 and 13 at Fresnoy, National studio of conte
 
 [Aller aux ressources atelier (*workshops ressources*)](ateliers.md)
 
-[Arcanes](https://crilcq.arcanes.ca/)
+[Groupe de recherche Arcanes (*Arcanes research group*)](https://crilcq.arcanes.ca/)
 
 <!-- [Voir demo atelier Machine Unlearning (*see demo for Machine Unlearning workshop*)]() -->
 
