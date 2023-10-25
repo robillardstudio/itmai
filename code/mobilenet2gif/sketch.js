@@ -62,13 +62,9 @@ function setup() {
   // let div2 = createDiv("press 's' to export .gif");
   // div2.position(10, 180);
 
-  let div3 = createDiv('Gaëtan Robillard, Machine Unlearning Demo');
-  div3.style('font-size', '10px');
-  div3.position(10, 200);
-
-  let div4 = createDiv("Type 's' to save a .gif sequence");
+  let div4 = createDiv("Press 's' to save a .gif sequence");
   div4.style('font-size', '10px');
-  div4.position(10, 220);
+  div4.position(10, 200);
 }
 
 function draw(){

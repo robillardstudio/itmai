@@ -14,3 +14,12 @@ body {
   /* This centers our sketch horizontally. */
   justify-content: center;
 }
+
+.text-block {
+  font-size: 10px;
+  text-align: left;
+  padding: 10px;
+  width: 200px; /* Limiting the width to 200px */
+  position: absolute;
+  top: 220px; /* 150px from the top */
+}
