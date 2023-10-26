@@ -33,4 +33,4 @@ Gaëtan Robillard, Trois lignes dans un espace latent.
 
 - References for Stable diffusion webui colab [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 - Stable Diffusion web UI by AUTOMATIC 1111 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- David Foster, Generative Deep Learning (2nd edition), gitub repository [https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)
+- David Foster, Generative Deep Learning (2nd edition), github repository [https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)
