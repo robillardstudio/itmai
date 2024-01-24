@@ -12,7 +12,7 @@ _Study day and workshops, October 12 and 13 at Fresnoy, National studio of conte
 
 [Voir programme en pdf (_see program as pdf_)](medias/programme.pdf)
 
-[Voir l'archive video de la journée d'étude sur Youtube (_See the video archive of the study day on Youtube_)](https://www.youtube.com/playlist?list=PLCnRqBTwJuJF_0E1I4dUbPYdU1wZPYIVz)
+[Voir l'archive vidéo de la journée d'étude sur Youtube (_See the video archive of the study day on Youtube_)](https://www.youtube.com/playlist?list=PLCnRqBTwJuJF_0E1I4dUbPYdU1wZPYIVz)
 
 [Aller aux ressources atelier (*workshops ressources*)](ateliers.md)
 
